@@ -4,7 +4,7 @@ import { SignedIn, SignedOut, SignInButton, UserButton } from "@clerk/clerk-reac
 import { HiOutlineMenuAlt1, HiX } from "react-icons/hi";
 import HomePage from "./pages/HomePage";
 import CalmSpace from "./pages/CalmSpace";
-import CompanionAI from "./pages/CompanionAi";
+import CompanionAI from "./pages/CompanionAI";
 
 function App() {
   const [menuOpen, setMenuOpen] = useState(false);
