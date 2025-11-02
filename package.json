@@ -14,8 +14,6 @@
     "@radix-ui/themes": "^3.2.1",
     "@reduxjs/toolkit": "^2.9.2",
     "@tailwindcss/vite": "^4.1.16",
-    "chart.js": "^4.5.1",
-    "firebase": "^12.4.0",
     "framer-motion": "^12.23.24",
     "localforage": "^1.10.0",
     "react": "^19.1.1",
@@ -28,8 +26,7 @@
     "react-router": "^7.9.5",
     "remark-breaks": "^4.0.0",
     "remark-gfm": "^4.0.1",
-    "tailwindcss": "^4.1.16",
-    "uuid": "^13.0.0"
+    "tailwindcss": "^4.1.16"
   },
   "devDependencies": {
     "@eslint/js": "^9.36.0",
